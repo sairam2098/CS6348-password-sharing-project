@@ -1,0 +1,8 @@
+set FN_AUTH_REDIRECT_URI=http://localhost:8040/google/auth
+set FN_BASE_URI=http://localhost:8040
+set FN_CLIENT_ID='360527929087-5rve84ppt2a1gq749utim7mlmnp0agrk.apps.googleusercontent.com'
+set FN_CLIENT_SECRET='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'
+
+set FLASK_APP=app.py
+set FLASK_DEBUG=1
+set FN_FLASK_SECRET_KEY=1234567
